@@ -1,0 +1,2 @@
+1. the problem related to substring, we often use hashmap/array to count the frequency
+2. when the characters in string are limited to upper/lower cases, we often use int[] instead of hashmap to count the frequency

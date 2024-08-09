@@ -1,0 +1,1 @@
+1. we usually use suffix when we solve the problems of subarray because every time we append a char to the end, the new generated subarray are those ends with new char. Eg. Problem 918

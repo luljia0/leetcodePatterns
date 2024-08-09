@@ -1,0 +1,41 @@
+Final Project Mock Interview Steps
+
+1a/b. "let's get started" / confirm we can start / can you see my screen / right page etc. 
+1a/b. confirm topic or tech is working
+2. read the problem to yourself
+3. restate the problem you're solving
+4. state the inputs/outputs/goals of the function/problem solution
+	data types - paramters and returns, data types
+5. talking: check the constraints
+	talking: I'm going to take a minute to think through the corner cases
+	thinking: determine limitations of inputs and outputs
+		data types
+		overflow
+		base case? empty? 0 and 1s? 
+	talk!
+		data types
+		overflow
+		base case? empty? 0 and 1s? 
+	think data types
+	talk data types
+	think overflow
+	talk	 overfow
+	think base case
+	talk base case 
+5. give an overall idea about the solution
+5a. state the brute force solution
+5b. analyze the brute force solution time complexity
+5c. state some ideas that you have for how to beat the brute force solution
+	even if you don't know how to implement them
+
+Strategies for creating solutions: 
+1. code up brute force and then try to improve upon it
+2. talk through some of your ideas and pick one to implement
+3. try a strategy and start coding it up
+
+6a. actually coding and explaining
+6b. explain the step, code the step
+6c. the next step
+6d. the next step
+
+
